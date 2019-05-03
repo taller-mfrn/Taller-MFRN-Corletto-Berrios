@@ -1,0 +1,21 @@
+{
+  "name": "holis",
+  "version": "1.0.0",
+  "description": "test para el taller",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "no",
+    "se",
+    "que",
+    "poner",
+    "aqui"
+  ],
+  "author": "melanie",
+  "license": "MIT",
+  "dependencies": {
+    "fastify": "^2.1.0"
+  }
+}
